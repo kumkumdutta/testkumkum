@@ -6,3 +6,4 @@ console.log(h+k)
 git
 add 
 1234
+k=89
