@@ -2,3 +2,4 @@ h=60
 k=99
 h2- 0
 let n = 90
+console.log(h+k)
